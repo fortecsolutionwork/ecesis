@@ -1,0 +1,494 @@
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link{
+	color: #2cabf7 !important;
+}
+@media only screen and (min-width: 1001px){
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > a.mega-menu-link:hover {
+    color: #2cabf7;
+}
+}
+.menu_fixed #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > a.mega-menu-link {
+    padding: 30px 25px 30px 25px;
+}
+header .tzmenu_fixed.menu_fixed {
+    box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.05);
+}
+header .tz-menu-header .tz_logo img {
+    max-width: 300px;
+    display: inline-block;
+	    height: auto;
+}
+.tz-header + div {
+    padding-top: 152px;
+}
+.TZ-Vehicle-Search-Vertical h3 {
+    font-size: 18px;
+}
+.strip h3 {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 35px;
+    font-style: normal;
+    margin-top: 5px;
+	text-transform: capitalize;
+}
+.strip h3 span {
+    color: #2cabf7;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.strip button:hover, .c-btn button:hover, .autoshowroom-footer-social-item a:hover, .modal input[type=submit]:hover, a#singleModel:hover, a#singleModel:focus, div.esu-form-div input[type=submit]:hover, footer .tnp-subscription .tnp-field-button input:hover, .custom_txt .vc_btn3-inline button:hover{
+    background: #1380c1 !important;
+}
+.autoshowroom-title h2.AutoshowroomTitle:before {
+    border-bottom: none;
+    width: 125px;
+    border-top-width: 2px;
+    margin-left: -63px;
+}
+.autoshowroom-title h2.AutoshowroomTitle:after {
+    position: absolute;
+    content: "";
+    left: 50%;
+    width: 60px;
+    height: 2px;
+    background: #2cabf7;
+    margin-left: -30px;
+    bottom: -8px;
+}
+.pcd-specs {
+    display: flex;
+    display: -ms-flex;
+}
+.featured_slider .pcd-specs span.registration, span.registration {
+    background-image: url(/staging_msu/wp-content/uploads/2020/05/calendar-2.svg) !important;
+    background-position: 14px 7px !important;
+}
+.pcd-specs span, body .featured_slider .pcd-specs span {
+    background-size: 20px !important;
+    padding-left: 30px !IMPORTANT;
+    background-repeat: no-repeat !important;
+    background-position: 11px 7px !IMPORTANT;
+}
+body .featured_slider .pcd-specs span:first-child, .TZ-Vehicle-Grid .pcd-specs span:nth-child(1), .TZ-Vehicle-Feature .pcd-specs span:nth-child(1) {
+    flex: 0 0 26.33%;
+    flex: 0 0 26.33%;
+    max-width: 26.33%;
+    border: 2px solid #fff;
+}
+.TZ-Vehicle-Feature .item .pcd-specs span, .TZ-Vehicle-Grid .item .pcd-specs span {
+    padding: 7px 0;
+}
+span.registration i, span.milage i, span.transmission i, .tz-average-rating {
+    display: none;
+}
+body .featured_slider .pcd-specs span.milage, body span.milage {
+    background-image: url(/staging_msu/wp-content/uploads/2020/05/odometer.svg) !important;
+    background-position: 12px 10px !important;
+    background-size: 28px !important;
+}
+body span.transmission, body .featured_slider .pcd-specs span.transmission {
+    background-image: url(/staging_msu/wp-content/uploads/2020/05/transmission.svg) !important;
+    background-size: 20px !important;
+    background-position: 10px 8px !important;
+}
+
+body .featured_slider .pcd-specs span:nth-child(2), .TZ-Vehicle-Grid .pcd-specs span:nth-child(2), .TZ-Vehicle-Feature .pcd-specs span:nth-child(2) {
+    border: 2px solid #fff;
+    flex: 0 0 40.33%;
+    flex: 0 0 40.33%;
+    max-width: 40.33%;
+}
+body .featured_slider .pcd-specs span:nth-child(3), .TZ-Vehicle-Grid .pcd-specs span:nth-child(3), .TZ-Vehicle-Feature .pcd-specs span:nth-child(3) {
+    border: 2px solid #fff;
+    flex: 0 0 33.33%;
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+
+
+
+/* home easy section*/
+.fancy_section .no_container, .fancy_section .no_container .wpb_column {
+    display: flex;
+    display: -ms-flex;
+    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+}
+.firstsec .vc_column-inner {
+    padding: 0 6px;
+}
+.font_rotate {
+    transform: rotate(-15deg);
+    position: relative;
+    top: -47px;
+    font-family: "SignPainter-HouseScript" !important;
+    left: -36px;
+}
+.fancy_text1 h3 {
+    color: #e1ecef;
+    text-shadow: 1px 1px 6px #33333359;
+    font-family: arial, sans-serif;
+}
+.fancy_text1 h3 span {
+    font-size: 110px;
+    font-weight: 700;
+}
+.fancy_text2 h3 {
+    color: #e1ecef;
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 500;
+    text-shadow: 1px 1px 6px #33333359;
+    margin-top: 5px;
+    font-family: 'helveticaneuemedium';
+    letter-spacing: 2px;
+}
+.fancy_text2 h3 span {
+    font-size: 86px;
+    font-weight: 600;
+    color: #08242e;
+    text-shadow: none;
+    font-family: "SignPainter-HouseScript" !important;
+}
+.fancy_text3 {
+    margin-top: 30px;
+    padding-right: 36%;
+}
+.fancy_text3 h3 {
+    margin-bottom: 10px !IMPORTANT;
+    font-weight: 500 !IMPORTANT;
+    font-size: 35px;
+    color: #08242e;
+    margin-top: 63px !important;
+}
+.fancy_text3 span {
+    font-size: 285px;
+    font-family: "SignPainter-HouseScript" !important;
+    color: #043944;
+}
+.fancy_text3 + h3 {
+    font-weight: 500 !IMPORTANT;
+    font-family: 'helveticaneueregular';
+    letter-spacing: 3px;
+}
+.custom_txt .vc_btn3-inline {
+    position: absolute;
+    right: 10%;
+    top: 38%;
+}
+.custom_txt .vc_btn3-inline button {
+    font-size: 18px !important;
+}
+.custom_txt p {
+    position: absolute;
+    right: 12%;
+    font-size: 11px;
+    color: #08242e;
+    bottom: 8px;
+    font-weight: 400;
+}
+@media only screen and (max-width: 1550px){
+.fancy_text1 h3 span {
+    font-size: 77px;
+}
+	.fancy_text2 h3 {
+    font-size: 34px;
+}
+	.fancy_text2 h3 span {
+    font-size: 70px;
+}
+	.fancy_text3 h3 {
+    font-size: 32px;
+}
+	.fancy_text3 span {
+    font-size: 250px;
+}
+	.fancy_text3 + h3 {
+    font-size: 21px !important;
+}
+}
+@media only screen and (max-width:1368px){
+	.fancy_text1 h3 span {
+    font-size: 62px;
+}
+	.fancy_text2 h3 {
+    font-size: 30px;
+}
+	.fancy_text2 h3 span {
+    font-size: 70px;
+}
+	.fancy_text3 span {
+    font-size: 210px;
+}
+	.fancy_text3 h3 {
+    font-size: 26px;
+}
+	.fancy_text3 + h3 {
+    font-size: 21px !important;
+		letter-spacing: 0px;
+		margin-top: 20px !important;
+}
+	.font_rotate {
+    top: -10px;
+    font-size: 160px !IMPORTANT;
+}
+	.custom_txt .vc_column-inner {
+   padding-top: 100px !IMPORTANT;
+    padding-bottom: 20px !important;
+}
+
+.firstsec .vc_column-inner {
+    padding-top: 56px !IMPORTANT;
+}
+}
+/* home easy section*/
+
+/* home icon box */
+.Other_features {
+    background-image: url(/staging_msu/wp-content/uploads/2020/05/new_bg.jpg) !important;
+    background-size: 103%;
+}
+.Other_features img {
+    max-height: 80px;
+    width: auto;
+    margin-bottom: 12px;
+}
+.Other_features p {
+    color: #00222e;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 10px !IMPORTANT;
+	text-align:center;
+}
+.Other_features .wpb_single_image {
+    text-align: center;
+}
+/* home icon box */
+
+
+/* footer */
+.autoshowroom-footer .autoshowroom-footer-top:after {
+    background-color: #00222e;
+}
+.autoshowroom-footer .autoshowroom-footer-top .col-md-3:nth-child(1) {
+    padding-right: 48px;
+}
+.autoshowroom-footer .autoshowroom-footer-top .col-md-3:nth-child(2) {
+    padding-left: 30px;
+}
+footer .col-md-2 {
+    padding-right: 0;
+}
+footer .col-md-4 {
+    padding-left: 45px;
+}
+footer p a, footer p a:hover {
+    color: #a3a3a3;
+    text-decoration: none;
+}
+#text-3 p {
+    padding-left: 20px;
+    position: relative;
+}
+#text-3 p i {
+    position: absolute;
+    left: 0;
+    top: 5px;
+}
+footer p, footer span {
+    color: #a3a3a3 !important;
+}
+footer .widget_text p {
+    margin-bottom: 6px !IMPORTANT;
+}
+footer .tnp-subscription .tnp-field-button {
+    text-align: right;
+}
+footer .tnp-subscription .tnp-field-button input {
+    padding: 10px 25px;
+    color: white;
+    height: 45px;
+    background: #2cabf7;
+    position: relative;
+    z-index: 1;
+    border: none;
+    display: inline-block !IMPORTANT;
+    font-size: 18px;
+    font-weight: 500;
+}
+.autoshowroom-footer-social-item a {
+    background: #2cabf7;
+    width: 250px;
+    display: inline-block;
+    height: 50px;
+    position: relative;
+    border-radius: 30px;
+    padding: 0 15px;
+}
+.autoshowroom-footer-social-item a:before {
+    position: absolute;
+    content: "VIEW ALL INVENTORY";
+    font-size: 18px;
+    color: #fff;
+    left: 0;
+    width: 100%;
+    line-height: 51px;
+    font-weight: 500;
+}
+.autoshowrooom-footer-bottom-center-box {
+	    background: none !important;
+}
+.autoshowroom-footer-bottom-left p {
+    font-size: 12px;
+    color: #aeaeae !IMPORTANT;
+	margin-top: 15px !important;
+}
+.autoshowroom-footer-bottom-right .widget.widget_nav_menu ul li a {
+    font-size: 17px;
+}
+.autoshowroom-footer-bottom-right ul {
+    margin-top: 35px;
+}
+.autoshowroom-footer .autoshowroom-footer-bottom .autoshowroom-footer-bottom-right .widget.widget_nav_menu ul li {
+    padding: 0 0 0 40px;
+}
+#menu-footer-menu .current-menu-item a {
+    color: #2cabf7;
+}
+.tnp-email {
+    padding-right: 50px;
+}
+.email-valid-check {
+    background-image: url(/staging_msu/wp-content/uploads/2020/05/check2.png) !important;
+    background-size: 24px !IMPORTANT;
+    background-repeat: no-repeat !important;
+    background-position: 95% center !IMPORTANT;
+}
+/* footer */
+
+.post-type-archive-vehicle .autoshowroom-page-title {
+    background-image: url(/staging_msu/wp-content/uploads/2020/05/inventory-title-bg.jpg) !important;
+    background-color: none !important;
+    padding: 80px;
+    background-size: 110%;
+}
+.post-type-archive-vehicle .autoshowroom-page-title .autoshowroom-page-title-overlay {
+    background-color: none !important;
+    padding: 0;
+}
+.post-type-archive-vehicle .autoshowroom-page-title .autoshowroom-page-title-overlay {
+    background: none !important;
+}
+.autoshowroom-sidebar .field-condition, .autoshowroom-sidebar .field-registration b {
+    display: none;
+}
+.autoshowroom-sidebar .field-registration label:before {
+    position: absolute;
+    content: "Year";
+    width: 200px;
+    height: 50px;
+    top: 18px;
+    font-weight: 400;
+}
+.autoshowroom-sidebar .field-registration label {
+    margin-top: 20px;
+}
+.container-content .vehicle-grid .TZ-Vehicle-Grid {
+    margin: 20px 7px !important;
+}
+.container-content .vehicle-grid .TZ-Vehicle-Grid .pcd-specs {
+    padding: 0 7px 20px 4px;
+}
+
+body .container-content .featured_slider .pcd-specs span.milage, body .container-content span.milage {
+    background-position: 6px 3px !important;
+    background-size: 24px !important;
+}
+.container-content .pcd-specs span, body .container-content .featured_slider .pcd-specs span {
+    background-size: 16px !important;
+    background-position: 6px 1px !IMPORTANT;
+}
+.container-content .vehicle-grid .TZ-Vehicle-Grid .pcd-specs {
+    padding: 0 7px 10px 4px;
+}
+@media only screen and (max-width: 767px){
+.strip h3 {
+    text-align: center;
+    margin-bottom: 35px;
+}
+	.strip .vc_btn3-right {
+    text-align: center;
+}
+	.Other_features .row {
+    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+}
+	.Other_features .row .wpb_column{
+		margin-bottom: 40px;
+	}
+	.Other_features .row .wpb_column:last-child{
+		margin-bottom: 0px;
+	}
+	.custom_txt .vc_btn3-inline {
+    position: relative;
+    right: 0;
+     top: 0;
+}
+	.fancy_text3 {
+    padding-right: 0;
+}
+	.custom_txt .vc_column-inner {
+    padding: 70px 20px 50px !IMPORTANT;
+}
+	.firstsec .vc_column-inner {
+    padding-top: 56px !IMPORTANT;
+        padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+	.font_rotate {
+    left: -7px !important;
+    top: -35px !important;
+}
+}
+
+
+body rs-dotted.twoxtwo {
+    background: none !important;
+}
+.owl-item.active + .owl-item.active + .owl-item.active + .owl-item.active, .package-items.slick-slide {
+    opacity: 0.4;
+}
+.autoshowroom-breadcrumb-navxt span.current-item {
+    color: #3baee4;
+}
+.autoshowroom-title-breadcrumb .autoshowroom-page-title{
+	background-image: none !important;
+}
+.container-content h3.black {
+    text-transform: uppercase;
+    font-size: 17px !important;
+}
+.autoshowroom-sidebar aside.widget h3.black {
+    font-family: 'helveticaneuemedium';
+    letter-spacing: 0.5px;
+    font-weight: normal;
+}
+.map_logo {
+    display: inline-block;
+    max-width: 270px;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: -151px;
+    left: 20px;
+    margin-bottom: -200px;
+}
+.post-type-archive-vehicle .container-content .vehicle-grid .TZ-Vehicle-Grid .vehicle-feature-des p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 25px;
+}
